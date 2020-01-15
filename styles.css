@@ -1,0 +1,33 @@
+body {
+  background-color: #d3d3d3;
+}
+h1 {
+  color: red;
+  border-style: solid;
+  font-size: 40;
+  text-align: center;
+  border-width: 2px;
+  border-color:red;
+
+}
+h2 {
+  color: red;
+  font-size: 30;
+font: verdana;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+a {
+  color: red;
+  }
+a:hover
+  {
+    color : yellow;
+  }
